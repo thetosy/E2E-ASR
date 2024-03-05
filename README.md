@@ -26,6 +26,11 @@ The dataset is used to train models which predicts each spoken character.
   
 unzip harper_valley_bank_minified.zip in the data directory
 
+## Model Run Report
+
+![ASR_model_report.png](data/ASR_model_report.png)
+<p style="text-align: center;">Model run report obtained from Wandb</p>
+
 ## Reference
 1. [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf), A Graves *et al*.
 2. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211v2), W Chan *et al.*
